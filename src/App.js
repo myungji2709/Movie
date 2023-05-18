@@ -9,7 +9,8 @@ export default function App(){
       <Header />
       <Routes>
         <Route path="/" element={<Home />}></Route>
-        {/* <Route path="movie/:id" element={<MovieDetail />}></Route>  */}
+        <Route path="movies/:type" element={<MovieList />}></Route>
+        <Route path="movie/:id" element={<MovieDetail />}></Route> 
       </Routes>
     </div>
   )
