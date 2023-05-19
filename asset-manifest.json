@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/myungji2709/movie/static/css/main.15331a3d.css",
-    "main.js": "/myungji2709/movie/static/js/main.ee8d3351.js",
-    "index.html": "/myungji2709/movie/index.html",
-    "main.15331a3d.css.map": "/myungji2709/movie/static/css/main.15331a3d.css.map",
-    "main.ee8d3351.js.map": "/myungji2709/movie/static/js/main.ee8d3351.js.map"
+    "main.css": "/myungji2709/movie.git/static/css/main.15331a3d.css",
+    "main.js": "/myungji2709/movie.git/static/js/main.ee8d3351.js",
+    "index.html": "/myungji2709/movie.git/index.html",
+    "main.15331a3d.css.map": "/myungji2709/movie.git/static/css/main.15331a3d.css.map",
+    "main.ee8d3351.js.map": "/myungji2709/movie.git/static/js/main.ee8d3351.js.map"
   },
   "entrypoints": [
     "static/css/main.15331a3d.css",
